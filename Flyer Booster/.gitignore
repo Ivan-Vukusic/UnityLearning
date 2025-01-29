@@ -23,6 +23,9 @@ Build/
 *.inputactions
 *.csproj
 *.prefab
+*.vsidx
+*.index
+*.settings
 .vscode/
 
 # OS generated files
